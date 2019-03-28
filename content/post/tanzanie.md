@@ -1,7 +1,7 @@
 +++
 date = "2019-03-27T23:00:00+00:00"
 image = "/uploads/cheetah.jpg"
-title = "tanzanie"
+title = "Cheetah"
 weight = 1
 writer = "seb"
 
