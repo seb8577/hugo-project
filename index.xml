@@ -6,28 +6,10 @@
     <description>Recent content on Mon blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 27 Mar 2019 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2019 16:50:34 +0100</lastBuildDate>
     
 	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>cape town</title>
-      <link>https://example.org/post/cape-town-1/</link>
-      <pubDate>Wed, 27 Mar 2019 23:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/post/cape-town-1/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</description>
-    </item>
-    
-    <item>
-      <title>cape town</title>
-      <link>https://example.org/post/cape-town/</link>
-      <pubDate>Wed, 27 Mar 2019 23:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/post/cape-town/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</description>
-    </item>
     
     <item>
       <title>Paysages</title>
