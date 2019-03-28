@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Mon blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 27 Mar 2019 16:50:34 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2019 23:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>tanzanie</title>
+      <link>https://example.org/post/tanzanie/</link>
+      <pubDate>Wed, 27 Mar 2019 23:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/post/tanzanie/</guid>
+      <description>Le guépard (Acinonyx jubatus) est un grand mammifère carnassier de la famille des félidés vivant en Afrique et en Asie de l&amp;rsquo;Ouest. Le guépard a une allure svelte et fine, avec de longues pattes élancées aux griffes non rétractiles, et une face au museau court marquée par deux traces noires partant des yeux. Son pelage est entièrement tacheté de noir sur un fond fauve à beige très clair ; les petits sont pourvus d&amp;rsquo;une courte crinière qui disparaît à l&amp;rsquo;âge adulte.</description>
+    </item>
     
     <item>
       <title>Paysages</title>
