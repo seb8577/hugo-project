@@ -1,3 +1,3 @@
 # hugo-project
 
-https://seb8577.github.io/hugo-project/.
+https://hugo-arinfo1.netlify.com
